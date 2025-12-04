@@ -1,6 +1,6 @@
 const express = require("express");
 const { z } = require("zod");
-const Score = require("../../../models/Score");
+const Score = require("../../../models/score");
 
 const router = express.Router();
 
